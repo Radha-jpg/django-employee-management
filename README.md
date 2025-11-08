@@ -1,4 +1,4 @@
-1. Project Overview:
+Project Overview:
 
 A simple web application using Django, MySQL, and Bootstrap to manage employee data. Users can view and add employees.
 
